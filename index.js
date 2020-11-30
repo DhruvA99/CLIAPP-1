@@ -30,3 +30,4 @@ for(count=0;count<quesArray.length;count++){
  }
 
 console.log('your final score is : '+score);
+console.log('Thankyou for playing')
